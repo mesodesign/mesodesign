@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mesodesign
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Javascript and Python
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Graphic design
 - 📫 How to reach me, it's si;ple just send me a mail: mesodesign33@gmail.com
 - 😄 Pronouns: Mr.
