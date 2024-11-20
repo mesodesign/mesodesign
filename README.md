@@ -28,12 +28,9 @@ Availability
 
 I'm open to projects, collaborations, freelance work and long-term missions. Feel free to contact me.
 
-Contact
+_______________________________________
 
-- LinkedIn: [your LinkedIn link]
-- Twitter: [your Twitter link]
-- Email: [your email]
-- Portfolio: [your website or portfolio]
+
 
 <!---
 mesodesign/mesodesign is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
