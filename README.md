@@ -1,13 +1,3 @@
-- 👋 Hi, I’m @mesodesign
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Graphic design
-- 📫 How to reach me, it's si;ple just send me a mail: mesodesign33@gmail.com
-- 😄 Pronouns: Mr.
-
-_______________________________
-
-About Me
 
 I'm Reagan ILUNGA WA ILUNGA, aka Meso, a passionate digital creative. Born in the Democratic Republic of Congo, I'm currently based in Cape Town, South Africa.
 
@@ -27,6 +17,8 @@ Experience
 Availability
 
 I'm open to projects, collaborations, freelance work and long-term missions. Feel free to contact me.
+
+E-mail: mesodesign33@gmail.com
 
 _______________________________________
 
